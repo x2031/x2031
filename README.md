@@ -1,8 +1,6 @@
 ### Hi👋 我是 x2031
 
 
-**x2031/x2031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 喜欢代码
 - 🌱 喜欢研究
 - ⚡ 热爱编程
