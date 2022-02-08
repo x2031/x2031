@@ -12,6 +12,7 @@
 <code><img height="40" src="icon/ln3.png" alt="Js" title="Js"></code>
 <code><img height="40" src="icon/ln4.png" alt="Vue" title="Vue"></code>
 <code><img height="40" src="icon/ln5.png" alt="React" title="React"></code>
+<code><img height="40" src="icon/tool10.png" alt="Nodejs" title="Nodejs"></code>
 
 **工具**
 
@@ -23,4 +24,5 @@
 <code><img height="40" src="icon/tool6.png" alt="Postman" title="Postman"></code>
 <code><img height="40" src="icon/tool7.png" alt="Git" title="Git"></code>
 <code><img height="40" src="icon/tool8.png" alt="Chrome" title="Chrome"></code>
-<code><img height="40" src="icon/tool9.png" alt="Notion" title="Notion"></code>
+<code><img height="40" src="icon/tool11.png" alt="Jenkins" title="Jenkins"></code>
+<code><img height="40" src="icon/tool14.png" alt="RedHat" title="RedHat"></code>
