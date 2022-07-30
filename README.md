@@ -15,7 +15,6 @@
 <code><img height="40" src="icon/ln2.png" alt=".Net" title=".Ner"></code>
 <code><img height="40" src="icon/ln3.png" alt="Js" title="Js"></code>
 <code><img height="40" src="icon/ln4.png" alt="Vue" title="Vue"></code>
-<code><img height="40" src="icon/ln5.png" alt="React" title="React"></code>
 <code><img height="40" src="icon/tool10.png" alt="Nodejs" title="Nodejs"></code>
 
 **工具**
