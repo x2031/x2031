@@ -22,8 +22,6 @@
 <code><img height="40" src="icon/tool1.png" alt="VSCode" title="VSCode"></code>
 <code><img height="40" src="icon/tool2.png" alt="VS2022" title="VS2022"></code>
 <code><img height="40" src="icon/tool3.png" alt="Linux" title="Linux"></code>
-<code><img height="40" src="icon/tool4.png" alt="Redis" title="Redis"></code>
-<code><img height="40" src="icon/tool5.png" alt="Nginx" title="Nginx"></code>
 <code><img height="40" src="icon/tool6.png" alt="Postman" title="Postman"></code>
 <code><img height="40" src="icon/tool7.png" alt="Git" title="Git"></code>
 <code><img height="40" src="icon/tool8.png" alt="Chrome" title="Chrome"></code>
