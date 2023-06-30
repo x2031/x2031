@@ -12,16 +12,13 @@
 **使用的语言和框架**
 
 <code><img height="40" src="icon/ln1.png" alt="C#" title="C#"></code>
-<code><img height="40" src="icon/ln2.png" alt=".Net" title=".Ner"></code>
-<code><img height="40" src="icon/ln3.png" alt="Js" title="Js"></code>
-<code><img height="40" src="icon/ln4.png" alt="Vue" title="Vue"></code>
-<code><img height="40" src="icon/tool10.png" alt="Nodejs" title="Nodejs"></code>
+<code><img height="40" src="icon/ln2.png" alt=".Net" title=".Net"></code>
+<code><img height="40" src="icon/ln3.png" alt="Js" title="Vue"></code>
 
 **工具**
 
 <code><img height="40" src="icon/tool1.png" alt="VSCode" title="VSCode"></code>
 <code><img height="40" src="icon/tool2.png" alt="VS2022" title="VS2022"></code>
-<code><img height="40" src="icon/tool3.png" alt="Linux" title="Linux"></code>
 <code><img height="40" src="icon/tool6.png" alt="Postman" title="Postman"></code>
 <code><img height="40" src="icon/tool7.png" alt="Git" title="Git"></code>
 <code><img height="40" src="icon/tool8.png" alt="Chrome" title="Chrome"></code>
