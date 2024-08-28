@@ -1,3 +1,11 @@
+<!--
+ * @Author: wangke 334993067@qq.com
+ * @Date: 2024-08-28 11:22:42
+ * @LastEditors: wangke 334993067@qq.com
+ * @LastEditTime: 2024-08-28 15:09:11
+ * @FilePath: \x2031\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ### Hi👋 我是 x2031
 
   🔭 喜欢代码
@@ -20,10 +28,10 @@
 <code><img height="40" src="icon/tool1.png" alt="VSCode" title="VSCode"></code>
 <code><img height="40" src="icon/tool2.png" alt="VS2022" title="VS2022"></code>
 <code><img height="40" src="icon/gitlab.png" alt="Gitlab" title="Gitlab"></code>
+<code><img height="40" src="icon/tool7.png" alt="Git" title="Git"></code>
+<code><img height="40" src="icon/tool11.png" alt="Jenkins" title="Jenkins"></code>
 <code><img height="40" src="icon/idea.png" alt="idea" title="idea"></code>
 <code><img height="40" src="icon/tool6.png" alt="Postman" title="Postman"></code>
-<code><img height="40" src="icon/tool7.png" alt="Git" title="Git"></code>
 <code><img height="40" src="icon/tool8.png" alt="Chrome" title="Chrome"></code>
-<code><img height="40" src="icon/tool11.png" alt="Jenkins" title="Jenkins"></code>
-<code><img height="40" src="icon/tool14.png" alt="RedHat" title="RedHat"></code>
+<code><img height="40" src="icon/ubuntu.png" alt="RedHat" title="RedHat"></code>
 <code><img height="40" src="icon/docker.png" alt="Docker" title="Docker"></code>
