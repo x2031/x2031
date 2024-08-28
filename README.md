@@ -19,6 +19,7 @@
 
 <code><img height="40" src="icon/tool1.png" alt="VSCode" title="VSCode"></code>
 <code><img height="40" src="icon/tool2.png" alt="VS2022" title="VS2022"></code>
+<code><img height="40" src="icon/gitlab.png" alt="Gitlab" title="Gitlab"></code>
 <code><img height="40" src="icon/idea.png" alt="idea" title="idea"></code>
 <code><img height="40" src="icon/tool6.png" alt="Postman" title="Postman"></code>
 <code><img height="40" src="icon/tool7.png" alt="Git" title="Git"></code>
